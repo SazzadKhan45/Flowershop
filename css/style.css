@@ -215,6 +215,43 @@
 .customers{
     width: 80%;
     margin: auto;
+    padding-top: 50px;
+}
+.Customer-header{
+    text-align: center;
+}
+.customers-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 24px;
+    margin-bottom: 50px;
+    padding:0 370px;
+}
+.Happy-customers{
+    display: flex;
+    gap: 20px;
+    padding-bottom: 50px;
+    margin-bottom: 128px;
+
+}
+.customer-profile img{
+    height: 250px;
+    width: 300px;
+}
+.customer-reviews{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+.customer-name{
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.starts{
+    height: 100px;
+    width: 150px;
 }
 
 /* -- ===== Get The Latest Deals section style start here  ============-- */
