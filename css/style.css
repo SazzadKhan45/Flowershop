@@ -55,7 +55,7 @@
 
 .banner-image img {
     margin-top: 50px;
-    margin-bottom: -7px;
+    margin-bottom: -4px;
 }
 
 /* -----==== Bonous Part Our Featured Flowers -----=======*/
@@ -135,10 +135,14 @@
     margin: auto;
     margin-bottom: 128px;
 }
-.delivery, .flower-box, .call-center{
+
+.delivery,
+.flower-box,
+.call-center {
     text-align: center;
 }
-.service-description{
+
+.service-description {
     color: rgba(39, 39, 39, 0.80);
     font-size: 24px;
     font-weight: 600;
@@ -146,3 +150,31 @@
 }
 
 /* ---- Hot Deal ! Sale Up To 25% Off section style start here ---------*/
+.hot-dell {
+    display: flex;
+    gap: 150px;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    padding: 100px 100px;
+    margin: auto;
+}
+
+.off {
+    color: #E55473;
+}
+.discount-info{
+    text-align: center;
+}
+
+.discount-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+    padding: 24px 100px 32px 100px;
+}
+.Glass-top-flower img{
+    padding-right: 250px;
+}
+/* ---============= Socaiol Media Instagram ===========---- */
