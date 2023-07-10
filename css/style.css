@@ -45,12 +45,16 @@
     color: #272727;
     font-size: 80px;
     font-weight: 700;
+    padding-right: 100px;
 }
 
 .header-description {
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
+    line-height: 30px;
     margin: 32px 0;
+    padding-right: 180px;
+
 }
 
 .banner-image img {
@@ -71,6 +75,7 @@
     line-height: 30px;
     margin-top: 24px;
     margin-bottom: 48px;
+    padding: 0 40px;
 }
 
 .Featured-Flowers-items {
@@ -158,12 +163,14 @@
     width: 80%;
     padding: 100px 100px;
     margin: auto;
+    margin-bottom: 128px;
 }
 
 .off {
     color: #E55473;
 }
-.discount-info{
+
+.discount-info {
     text-align: center;
 }
 
@@ -174,7 +181,32 @@
     line-height: 30px;
     padding: 24px 100px 32px 100px;
 }
-.Glass-top-flower img{
+
+.Glass-top-flower img {
     padding-right: 250px;
 }
+
 /* ---============= Socaiol Media Instagram ===========---- */
+.social-media {
+    width: 80%;
+    margin: auto;
+}
+
+.social-media-info {
+    text-align: center;
+}
+
+.social-media-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+    margin: 24px 10px 48px 0px;
+    padding: 0 420px;
+}
+.flowers-items{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    margin-bottom: 128px;
+}
