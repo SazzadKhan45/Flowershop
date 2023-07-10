@@ -211,6 +211,11 @@
     justify-content: center;
     margin-bottom: 128px;
 }
+/* <!--========= Customer Reviews section start here ==========--> */
+.customers{
+    width: 80%;
+    margin: auto;
+}
 
 /* -- ===== Get The Latest Deals section style start here  ============-- */
 .Latest-dell {
