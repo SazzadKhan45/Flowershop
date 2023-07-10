@@ -204,9 +204,80 @@
     margin: 24px 10px 48px 0px;
     padding: 0 420px;
 }
-.flowers-items{
+
+.flowers-items {
     display: flex;
     gap: 24px;
     justify-content: center;
     margin-bottom: 128px;
+}
+
+/* -- ===== Get The Latest Deals section style start here  ============-- */
+.Latest-dell {
+    width: 80%;
+    height: 449px;
+    margin: auto;
+    background-image: url(../images/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 128px;
+}
+
+.Latest-dell-info {
+    padding-top: 115px;
+}
+
+.Latest-dell-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+
+.text-box {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    border-radius: 8px;
+    background: #FFF;
+    padding: 25px 500px 25px 25px;
+    border: none;
+    margin-right: 10px;
+}
+
+/* <---====== Footer section style start here =========------->*/
+.bg-dark {
+    background: #111010;
+}
+
+.Footer-head {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 128px 0;
+}
+
+.name {
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.fist-name {
+    color: #E55473;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+    margin: 24px 0 32px 0;
+    padding: 0 420px;
+}
+
+.coppy-write {
+    color: rgba(255, 255, 255, 0.40);
 }
